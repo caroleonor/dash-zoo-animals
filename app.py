@@ -7,7 +7,7 @@ import plotly.graph_objs as go
 tabtitle='zoo'
 myheading = 'Pavilions in the Expo'
 myfavoritecolor='#DBB312' # More colors are here: https://htmlcolorcodes.com/
-x_list=['Tech', 'Art', 'History','expo']
+x_list=['Tech', 'Art', 'History','Expo']
 y_list=[7, 11, 18,26]
 mytitle='??'
 githublink='https://github.com/caroleonor/dash-zoo-animals/edit/master/app.py'
